@@ -20,7 +20,7 @@ const Header = () => {
   return (
     <div className="flex items-center justify-between p-4 shadow-sm">
       <div className="flex items-center gap-10">
-        <Image src="/logo.png" alt="espe logo" width={100} height={50} />
+        <Image src="/logo.png" alt="espe logo" width={147} height={55} />
         <ul className="md:flex gap-10 hidden">
           {menu.map((item, index) => (
             <Link href={item.path}>
