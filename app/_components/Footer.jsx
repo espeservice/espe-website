@@ -143,7 +143,7 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="#" className="text-gray-500 transition hover:opacity-75"> Delete my data </a>
+            <a href="/account_deletion" className="text-gray-500 transition hover:opacity-75"> Delete my data </a>
           </li>
         </ul>
 
