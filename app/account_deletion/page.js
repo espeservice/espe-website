@@ -101,7 +101,7 @@ const AccountDeletion = () => {
       value={phoneNumber}
       onChange={(e) => setPhoneNumber(e.target.value)}
       required
-      pattern="[0-9]{10}" // Adjust pattern for your needs
+      pattern="[0-9]{10}" 
     />
   </div>
 </div>
