@@ -136,7 +136,7 @@ const TermsOfUse = () => {
             <h2 className="font-semibold text-gray-900 mb-4">9. CONTACT US</h2>
             <p>
               For any questions or concerns about these Terms, contact us at
-              <b> support@espeservice.com.</b>
+              <b>support@espeservice.com.</b>
             </p>
           </div>
 

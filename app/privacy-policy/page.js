@@ -862,7 +862,7 @@ const PrivacyPolicy = () => {
               Account, you will receive a notification outlining the reason for
               such action. ESPE SERVICE reserves the right to retain or delete
               any information associated with your Account, including
-              transaction history, communications, or User-Generated Content.
+              communications, or User-Generated Content.
             </p>
 
             <h3 className="font-semibold text-gray-900 mt-8 mb-4">
@@ -955,10 +955,9 @@ const PrivacyPolicy = () => {
               By using the App, you consent to the collection, processing, and
               storage of your personal data in accordance with ESPE SERVICE’s
               Privacy Policy. ESPE SERVICE collects a range of data, including
-              but not limited to your name, contact information, location data,
-              transaction history, and usage patterns. This data may be
-              collected through various methods, including direct input by you,
-              automated tracking technologies, or third-party integrations.
+              but not limited to your name, contact information, location data.
+              This data may be collected through various methods, including
+              direct input by you, automated tracking technologies.
             </p>
 
             <h3 className="font-semibold text-gray-900 mt-8 mb-4">
@@ -966,24 +965,24 @@ const PrivacyPolicy = () => {
             </h3>
             <p>
               Your personal data is used to provide and improve the Services
-              offered by ESPE SERVICE. This includes facilitating transactions,
-              verifying identities, enhancing user experience, conducting
-              analytics, and ensuring compliance with legal obligations. By
-              agreeing to these Terms, you authorize ESPE SERVICE to use your
-              data for these purposes and any other purposes outlined in the
-              Privacy Policy.
+              offered by ESPE SERVICE. This includes, verifying identities,
+              enhancing user experience, and ensuring compliance with legal
+              obligations. By agreeing to these Terms, you authorize ESPE
+              SERVICE to use your data for these purposes and any other purposes
+              outlined in the Privacy Policy.
             </p>
 
             <h3 className="font-semibold text-gray-900 mt-8 mb-4">
               10.3. DATA SHARING WITH THIRD PARTIES
             </h3>
             <p>
-              ESPE SERVICE may share your personal data with third-party service
-              providers who assist in delivering the Services, such as payment
-              processors, identity verification services, or cloud storage
-              providers. These third parties are contractually obligated to
-              protect your data in accordance with applicable data protection
-              laws.
+              ESPE SERVICE does not share your personal data with third-party
+              service providers, except in cases where it is required by law or
+              necessary to provide the Services. We are committed to maintaining
+              the privacy and confidentiality of your data. Your data is kept
+              within our systems and will not be disclosed to external parties
+              unless explicitly stated in this Privacy Policy or required by
+              applicable law.
             </p>
             <p>
               In certain circumstances, ESPE SERVICE may also share your data
@@ -1029,6 +1028,88 @@ const PrivacyPolicy = () => {
               data is no longer needed, ESPE SERVICE will securely delete or
               anonymize it in accordance with applicable laws and data retention
               policies.
+            </p>
+
+            <h3 className="font-semibold text-gray-900 mt-8 mb-4">
+              10.7. COLLECTION OF GOVERNMENT-ISSUED IDENTIFICATION (NIDA)
+            </h3>
+            <p>
+              ESPE SERVICE may collect government-issued identification,
+              including but not limited to the National Identification (NIDA),
+              as part of the identity verification process for certain services
+              offered within the App. This information is collected to verify
+              your identity, comply with legal requirements, and ensure the
+              security and integrity of transactions.
+            </p>
+
+            <h3 className="font-semibold text-gray-900 mt-8 mb-4">
+              10.7.1. PURPOSE OF COLLECTION
+            </h3>
+            <p>
+              The NIDA is collected to:
+              <ul className="list-disc pl-5">
+                <li>
+                  Verify your identity for account security and fraud
+                  prevention.
+                </li>
+                <li>
+                  Ensure compliance with regulatory requirements, such as
+                  anti-money laundering (AML) and know-your-customer (KYC) laws.
+                </li>
+                <li>
+                  Provide personalized services and ensure the correct
+                  processing of transactions.
+                </li>
+              </ul>
+            </p>
+
+            <h3 className="font-semibold text-gray-900 mt-8 mb-4">
+              10.7.2. STORAGE AND SECURITY OF NIDA
+            </h3>
+            <p>
+              Your NIDA is stored securely using industry-standard encryption
+              and security technologies. ESPE SERVICE ensures that appropriate
+              safeguards are in place to protect this sensitive information from
+              unauthorized access, alteration, or destruction. However, as no
+              method of electronic storage is 100% secure, ESPE SERVICE cannot
+              guarantee absolute security and advises users to take precautions
+              when submitting personal information.
+            </p>
+
+            <h3 className="font-semibold text-gray-900 mt-8 mb-4">
+              10.7.3. ACCESS TO NIDA
+            </h3>
+            <p>
+              Access to your NIDA is strictly limited to authorized personnel
+              within ESPE SERVICE who are responsible for identity verification,
+              compliance, or security purposes. In certain cases, trusted
+              third-party service providers, such as identity verification
+              services, may have access to your NIDA, but only for the purpose
+              of verifying your identity as part of the service you have
+              requested. These third parties are contractually obligated to
+              maintain the confidentiality and security of your personal data.
+            </p>
+
+            <h3 className="font-semibold text-gray-900 mt-8 mb-4">
+              10.7.4. IN-APP DISCLOSURE
+            </h3>
+            <p>
+              When collecting your NIDA, you will be provided with clear in-app
+              disclosures explaining the purpose of this data collection, how it
+              will be stored, who will have access to it, and your rights
+              regarding your data. This ensures full transparency and user
+              consent.
+            </p>
+
+            <h3 className="font-semibold text-gray-900 mt-8 mb-4">
+              10.7.5. DATA RETENTION AND DELETION OF NIDA
+            </h3>
+            <p>
+              ESPE SERVICE will retain your NIDA for as long as necessary to
+              fulfill the purposes outlined above and to comply with legal
+              obligations. Once your NIDA is no longer needed, it will be
+              securely deleted or anonymized in accordance with applicable data
+              protection laws and data retention policies.
             </p>
           </div>
 
