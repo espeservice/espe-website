@@ -1,0 +1,38 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "feedback": "Feedback",
+    "contact": "Contact Us",
+    "careers": "Careers",
+    "getStarted": "Get Started",
+    "quickLinks": "Quick Links"
+  },
+  "services": {
+    "title": "Discover ESPE Service",
+    "subtitle": "Your trusted platform for professional services",
+    "features": {
+      "quality": {
+        "title": "Seamless Service Experience",
+        "description": "Our platform connects you with trusted professionals in minutes, not days. Experience hassle-free service booking and management with our intuitive interface."
+      },
+      "experts": {
+        "title": "Verified Professionals",
+        "description": "Every service provider on our platform undergoes rigorous verification, ensuring quality and reliability for every service."
+      },
+      "tracking": {
+        "title": "Real-time Tracking",
+        "description": "Stay informed with live updates on your service requests. Track progress, communicate with providers, and manage everything in one place."
+      }
+    }
+  },
+  "footer": {
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Find and connect with trusted service providers",
+    "description": "Find the right service provider for your needs. Browse, connect, and request services quickly and easily. Enjoy a seamless experience from start to finish.",
+    "cta": "Get Started Now",
+    "imageAlt": "Service Illustration"
+  }
+} 

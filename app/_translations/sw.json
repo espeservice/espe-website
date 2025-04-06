@@ -1,0 +1,38 @@
+{
+  "header": {
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "feedback": "Maoni",
+    "contact": "Wasiliana Nasi",
+    "careers": "Kazi",
+    "getStarted": "Anza",
+    "quickLinks": "Viungo Vya Haraka"
+  },
+  "services": {
+    "title": "Gundua Huduma za ESPE",
+    "subtitle": "Jukwaa lako la kuegemea kwa huduma za kitaalamu",
+    "features": {
+      "quality": {
+        "title": "Uzoefu wa Huduma Bora",
+        "description": "Jukwaa letu linakunganisha na wataalamu wa kuaminika kwa dakika, sio siku. Pata uzoefu wa kuweka agizo na usimamizi wa huduma bila shida kwa kiolesura chetu cha kuvutia."
+      },
+      "experts": {
+        "title": "Wataalamu Waliohakikiwa",
+        "description": "Kila mtoa huduma kwenye jukwaa letu hupitia uthibitisho mkali, kuhakikisha ubora na uaminifu kwa kila huduma."
+      },
+      "tracking": {
+        "title": "Ufuatiliaji wa Wakati Halisi",
+        "description": "Endelea kufahamishwa na sasisho za moja kwa moja kuhusu maombi yako ya huduma. Fuatilia maendeleo, wasiliana na watoa huduma, na simamia kila kitu katika sehemu moja."
+      }
+    }
+  },
+  "footer": {
+    "contact": "Wasiliana Nasi"
+  },
+  "hero": {
+    "title": "Tafuta na uunganishe na watoa huduma wa kuaminika",
+    "description": "Tafuta mtoa huduma sahihi kwa mahitaji yako. Vinjari, unganisha, na omba huduma haraka na kwa urahisi. Furahia uzoefu wa laini kutoka mwanzo hadi mwisho.",
+    "cta": "Anza Sasa",
+    "imageAlt": "Mchoro wa Huduma"
+  }
+} 
