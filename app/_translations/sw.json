@@ -27,12 +27,38 @@
     }
   },
   "footer": {
-    "contact": "Wasiliana Nasi"
+    "description": "Mshirika wako wa kuaminika kwa huduma za kitaalamu. Tunakukunganisha na wataalamu waliohakikiwa kwa mahitaji yako yote.",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter"
+    },
+    "quickLinks": "Viungo Vya Haraka",
+    "contact": "Wasiliana Nasi",
+    "phone": "+255 777 055 666",
+    "workingHours": "Jumatatu-Ijumaa: 9:00-17:00",
+    "email": "info@espeservice.com",
+    "support": "Msaada 24/7",
+    "downloadApp": "Pakua Programu",
+    "downloadOn": "Pakua kwenye",
+    "appStore": "Duka la Programu",
+    "getItOn": "Pata kwenye",
+    "googlePlay": "Google Play",
+    "copyright": "© 2024 ESPE Service. Haki zote zimehifadhiwa.",
+    "privacyPolicy": "Sera ya Faragha",
+    "termsOfUse": "Masharti ya Matumizi",
+    "deleteData": "Futa data yangu"
   },
   "hero": {
     "title": "Tafuta na uunganishe na watoa huduma wa kuaminika",
     "description": "Tafuta mtoa huduma sahihi kwa mahitaji yako. Vinjari, unganisha, na omba huduma haraka na kwa urahisi. Furahia uzoefu wa laini kutoka mwanzo hadi mwisho.",
     "cta": "Anza Sasa",
     "imageAlt": "Mchoro wa Huduma"
+  },
+  "register": {
+    "openingApp": "Inafungua Programu ya ESPE Service...",
+    "pleaseWait": "Tafadhali subiri tunakuelekeza kwenye programu",
+    "downloadApp": "Pakua Programu ya ESPE Service",
+    "downloadDescription": "Ili kuendelea na usajili wako, tafadhali pakua programu yetu kutoka kwenye duka lako la programu unalopendelea."
   }
 } 

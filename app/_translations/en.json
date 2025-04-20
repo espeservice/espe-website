@@ -9,30 +9,56 @@
     "quickLinks": "Quick Links"
   },
   "services": {
-    "title": "Discover ESPE Service",
+    "title": "Discover ESPE Services",
     "subtitle": "Your trusted platform for professional services",
     "features": {
       "quality": {
-        "title": "Seamless Service Experience",
-        "description": "Our platform connects you with trusted professionals in minutes, not days. Experience hassle-free service booking and management with our intuitive interface."
+        "title": "Quality Service Experience",
+        "description": "Our platform connects you with trusted professionals in minutes, not days. Experience hassle-free service ordering and management through our intuitive interface."
       },
       "experts": {
-        "title": "Verified Professionals",
+        "title": "Verified Experts",
         "description": "Every service provider on our platform undergoes rigorous verification, ensuring quality and reliability for every service."
       },
       "tracking": {
         "title": "Real-time Tracking",
-        "description": "Stay informed with live updates on your service requests. Track progress, communicate with providers, and manage everything in one place."
+        "description": "Stay informed with real-time updates on your service requests. Track progress, communicate with providers, and manage everything in one place."
       }
     }
   },
   "footer": {
-    "contact": "Contact Us"
+    "description": "Your trusted partner for professional services. We connect you with verified experts for all your needs.",
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter"
+    },
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "phone": "+255 777 055 666",
+    "workingHours": "Monday-Friday: 9:00-17:00",
+    "email": "info@espeservice.com",
+    "support": "24/7 Support",
+    "downloadApp": "Download App",
+    "downloadOn": "Download on",
+    "appStore": "App Store",
+    "getItOn": "Get it on",
+    "googlePlay": "Google Play",
+    "copyright": "© 2024 ESPE Service. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "deleteData": "Delete my data"
   },
   "hero": {
     "title": "Find and connect with trusted service providers",
     "description": "Find the right service provider for your needs. Browse, connect, and request services quickly and easily. Enjoy a seamless experience from start to finish.",
-    "cta": "Get Started Now",
+    "cta": "Get Started",
     "imageAlt": "Service Illustration"
+  },
+  "register": {
+    "openingApp": "Opening ESPE Service App...",
+    "pleaseWait": "Please wait while we redirect you to the app",
+    "downloadApp": "Download ESPE Service App",
+    "downloadDescription": "To continue with your registration, please download our app from your preferred app store."
   }
 } 
